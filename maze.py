@@ -1,6 +1,6 @@
 from cell import Cell
 import random
-
+import time
 
 class Maze():
     #Constructor for maze 
