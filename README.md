@@ -4,7 +4,7 @@
 This project is a **maze solver** that generates and solves mazes using Python. The solver uses **Depth-First Search (DFS)** to navigate through a randomly generated maze, visualizing the solution with a graphical interface using **Tkinter**.
 
 ## Screenshot
-![Maze Solver Screenshot]([Maze%20Solver%20Screenshot.png](https://github.com/jeffe89/Maze-Solver/blob/main/Maze%20Solver%20Screenshot.png))
+![Maze Solver Screenshot](https://github.com/jeffe89/Maze-Solver/blob/main/Maze%20Solver%20Screenshot.png)
 
 ## Installation & Usage
 ### Prerequisites
